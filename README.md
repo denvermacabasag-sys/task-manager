@@ -10,7 +10,7 @@ Comajig, Denver M.
 BSIT-2 SECTION-5
 
 ## Database Used
-SQLite
+MySQL
 
 ## Features
 
